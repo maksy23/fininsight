@@ -1,0 +1,21 @@
+# Frontend
+ui/node_modules
+ui/build
+ui/.env
+ui/.env.local
+ui/npm-debug.log*
+ui/yarn-debug.log*
+ui/yarn-error.log*
+
+# Backend
+api/venv
+api/__pycache__
+api/*.pyc
+api/.env
+api/.env.local
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
